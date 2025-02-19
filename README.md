@@ -24,4 +24,6 @@ python claim_airdrop.py --wallet your_wallet_address
 
 ## 🔗 Liên hệ & Tham gia cộng đồng
 - YouTube: [Crypto MMO VN](https://www.youtube.com/@cryptommo8668)
+- Telegram: [Nhóm hỗ trợ](t.me/cryptommo8668)
+- Twitter: [@CryptoMMOVN](https://x.com/cryptommo8668)
 🛠 **Luôn cập nhật thông tin mới nhất và hỗ trợ cộng đồng tận tâm!**
